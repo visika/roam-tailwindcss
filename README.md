@@ -17,11 +17,15 @@ Most classes are missing though, as this project in early stage.
 
 ### Backgrounds
 
+![Backgrounds](assets/backgrounds.png "Backgrounds example")
+
 #### Background Color
 
 * `#bg-green-200` `#bg-green-500`
 
 ### Borders
+
+![Borders](assets/borders.png "Borders example")
 
 #### Border Radius
 
@@ -36,6 +40,8 @@ Most classes are missing though, as this project in early stage.
 * `#border-solid` `#border-dashed` `#border-dotted` `#border-double` `#border-none`
 
 ### Effects
+
+![Effects](assets/effects.png "Effects example")
 
 #### Box Shadow
 
