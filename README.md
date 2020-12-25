@@ -46,3 +46,11 @@ Most classes are missing though, as this project in early stage.
 #### Box Shadow
 
 * `#shadow` `#shadow-inner`
+
+### Typography
+
+#### Font Family
+
+![Font family](assets/font-family.png "Font family example")
+
+* `#font-sans` `#font-serif` `#font-mono`
