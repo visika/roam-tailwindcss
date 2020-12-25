@@ -1,4 +1,4 @@
-// Background Color
+/* Background Color */
 
 .roam-block-container[data-page-links*="bg-green-500"]
 {
@@ -11,7 +11,7 @@
 --tw-bg-opacity: 1;
 background-color: rgba(167, 243, 208, var(--tw-bg-opacity));}
 
-// Border Radius
+/* Border Radius */
 
 .roam-block-container[data-page-links*="rounded-none"]
 {
@@ -23,7 +23,7 @@ background-color: rgba(167, 243, 208, var(--tw-bg-opacity));}
   border-radius: 9999px;
 }
 
-// Border Color
+/* Border Color */
 
 .roam-block-container[data-page-links*="border-black"]
 {
@@ -41,7 +41,7 @@ border-color: rgba(59, 130, 246, var(--tw-border-opacity));}
   --tw-border-opacity: 1;
 border-color: rgba(239, 68, 68, var(--tw-border-opacity));}
 
-// Border Style
+/* Border Style */
 
 .roam-block-container[data-page-links*="border-solid"]
 {
