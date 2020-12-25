@@ -68,7 +68,7 @@ border-color: rgba(239, 68, 68, var(--tw-border-opacity));}
   border-style: none;
 }
 
-// Box Shadow
+/* Box Shadow */
 
 .roam-block-container[data-page-links*="shadow"]
 {
