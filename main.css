@@ -24,16 +24,40 @@ span
 
 /* Background Color */
 
-.roam-block-container[data-page-links*="bg-green-500"]
+.roam-block-container[data-page-links*="bg-red-500"]
 {
-  --tw-bg-opacity: 1;
-  background-color: rgba(16, 185, 129, var(--tw-bg-opacity));
+    --tw-bg-opacity: 1;
+    background-color: rgba(239, 68, 68, var(--tw-bg-opacity));
+}
+
+.roam-block-container[data-page-links*="bg-yellow-500"]
+{
+    --tw-bg-opacity: 1;
+    background-color: rgba(245, 158, 11, var(--tw-bg-opacity));
 }
 
 .roam-block-container[data-page-links*="bg-green-200"]
 {
 --tw-bg-opacity: 1;
 background-color: rgba(167, 243, 208, var(--tw-bg-opacity));}
+
+.roam-block-container[data-page-links*="bg-green-500"]
+{
+  --tw-bg-opacity: 1;
+  background-color: rgba(16, 185, 129, var(--tw-bg-opacity));
+}
+
+.roam-block-container[data-page-links*="bg-blue-500"]
+{
+    --tw-bg-opacity: 1;
+    background-color: rgba(59, 130, 246, var(--tw-bg-opacity));
+}
+
+.roam-block-container[data-page-links*="bg-pink-500"]
+{
+    --tw-bg-opacity: 1;
+    background-color: rgba(236, 72, 153, var(--tw-bg-opacity));
+}
 
 /* Border Radius */
 

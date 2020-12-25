@@ -21,7 +21,11 @@ Most classes are missing though, as this project in early stage.
 
 #### Background Color
 
+* `#bg-red-500`
+* `#bg-yellow-500`
 * `#bg-green-200` `#bg-green-500`
+* `#bg-blue-500`
+* `#bg-pink-500`
 
 ### Borders
 
